@@ -1,5 +1,7 @@
 <h1 align="center">Hey 👋, I'm Saeed Mujawar</h1>
 <h3 align="center">A passionate backend developer from Maharashtra, India</h3>
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
 
 - 🔭 I’m currently working on [Instagram Backend Design](https://github.com/Saeed-Mujawar/Instagram.git)
 
@@ -11,7 +13,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1eUHx1F4C0x75l_zvNY7oOiFsqTwBdwCDbk0chp3CJUg/edit?usp=drive_link](https://docs.google.com/document/d/1eUHx1F4C0x75l_zvNY7oOiFsqTwBdwCDbk0chp3CJUg/edit?usp=drive_link)
 
-- ⚡ Fun fact **I have the ability to infuse humor and creativity into my ordinary job, transforming it into an enjoyable and entertaining experience.**
+- ⚡ **Fun Fact** - Full stack developers are the culinary masters of coding, blending the perfect mix of frontend flavors and backend ingredients to create delicious web experiences.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
